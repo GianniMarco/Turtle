@@ -23,6 +23,7 @@ t.forward(25)
 t.up()
 t.right(90)
 t.up()
+
 #wheel 1
 t.color("black")
 t.begin_fill()
