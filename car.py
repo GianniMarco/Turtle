@@ -40,7 +40,6 @@ t.circle(20)
 t.end_fill()
 t.up()
 t.up()
-
 #end wheel 2
 t.forward(40)
 t.left(90)
